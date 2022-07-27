@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Profile
 
 
-4th year computer engineering student at Victoria University of Wellington, heavily invested in developing and diversifying myself as a future engineer. Take initiative through trying new things and creating challenges. Currently doing my honours project which aims to produce a quantitative model of the Eight360's NOVA. Recently developed an algorithmic trading system with a mean win-rate of 71% using engineering strategies and would like to apply my
-understanding of control systems, computer science, and electronics to the technology industry
+4th year computer engineering student at Victoria University of Wellington, heavily invested in developing and diversifying myself as a future engineer. Take initiative through trying new things and creating challenges. Currently doing my honours project which aims to produce a quantitative model of the Eight360's NOVA. Recently started developing an algorithmic trading system with a mean win-rate of 71% using engineering strategies and would like to apply my understanding of control systems, computer science, and electronics to the technology industry. Due to NDAs and IP agreements some of the projects mentioned will not be available on Github.
 
 # Vision
 
@@ -19,9 +18,3 @@ If the projects I have worked on interest you, or if you see me as a potential a
 haushianchin@gmail.com
 
 https://www.linkedin.com/in/hau-shian-chin-20aa841b4/
-
-
-
-
-
-
