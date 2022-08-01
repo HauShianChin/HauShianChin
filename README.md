@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hau-shian-chin-20aa841b4/](https://www.linkedin.com/in/hau-shian-chin-20aa841b4/)
 
-- ⚡ Fun fact **I like to lift sometimes**
+- ⚡ Fun fact **I like to pick up heavy things and put them back down**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
