@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Eight360 NOVA's power system](https://www.eight360.com/) and a quantitative trading algorthim with a winrate of 71%
 
-- 🌱 I’m currently learning **VHDL design, C++/Python implementation of HFT Strategies and quantitative trading algorithms.**
+- 🌱 I’m currently learning **VHDL design, C++/Python implementation of HFT Strategies, and application of control sytems in quantitative finance.**
 
 - 👨‍💻 Some of my projects and academic work are available at [https://github.com/HauShianChin](https://github.com/HauShianChin)
 
