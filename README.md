@@ -1,30 +1,26 @@
 <h1 align="center">Hi 👋, I'm Hau Shian Chin</h1>
-<h3 align="center">4th year electronics and computer systems engineering student at Victoria University of Wellington.</h3>
+
+- 🌱# 💫 About Me:
+- 🔭 I’m currently working on [Eight360 NOVA's power system](https://www.eight360.com/) and a quantitative trading algorthim with a winrate of 71%<br><br>- 🌱 I’m currently learning **VHDL/Verilog/SystemsVerilog, C++/Python implementation of HFT Strategies, and Financial mathematics.**<br><br>- 👨‍💻 Some of my projects and academic work are available at [https://github.com/HauShianChin](https://github.com/HauShianChin)<br><br>- 💬 Ask me about **Quantitative finance**<br><br>- 📫 How to reach me **haushianchin@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/hau-shian-chin-20aa841b4/](https://www.linkedin.com/in/hau-shian-chin-20aa841b4/)<br><br>- ⚡ Fun fact **I like to pick up heavy things and put them back down**
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hau_shian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hau-shian-chin-20aa841b4/) 
 
-- 🔭 I’m currently working on [Eight360 NOVA's power system](https://www.eight360.com/) and a quantitative trading algorthim with a winrate of 71%
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HauShianChin&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HauShianChin&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HauShianChin&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **VHDL/Verilog/SystemsVerilog, C++/Python implementation of HFT Strategies, and Financial mathematics.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HauShianChin&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-- 👨‍💻 Some of my projects and academic work are available at [https://github.com/HauShianChin](https://github.com/HauShianChin)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 💬 Ask me about **Quantitative finance**
+---
+[![](https://visitcount.itsvg.in/api?id=HauShianChin&icon=6&color=9)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **haushianchin@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hau-shian-chin-20aa841b4/](https://www.linkedin.com/in/hau-shian-chin-20aa841b4/)
-
-- ⚡ Fun fact **I like to pick up heavy things and put them back down**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/hau shian chin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hau shian chin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/asexyshitposter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hau shian" height="30" width="40" /></a>
-<a href="https://instagram.com/hau_shian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hau_shian" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-</a><a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="amd_vivado" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
