@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hau Shian Chin</h1>
 
-- 🌱# 💫 About Me:
-- 🔭 I’m currently working on [Eight360 NOVA's power system](https://www.eight360.com/) and a quantitative trading algorthim with a winrate of 71%<br><br>- 🌱 I’m currently learning **VHDL/Verilog/SystemsVerilog, C++/Python implementation of HFT Strategies, and Financial mathematics.**<br><br>- 👨‍💻 Some of my projects and academic work are available at [https://github.com/HauShianChin](https://github.com/HauShianChin)<br><br>- 💬 Ask me about **Quantitative finance**<br><br>- 📫 How to reach me **haushianchin@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/hau-shian-chin-20aa841b4/](https://www.linkedin.com/in/hau-shian-chin-20aa841b4/)<br><br>- ⚡ Fun fact **I like to pick up heavy things and put them back down**
+
+<br><br>- 🔭 I’m currently working on [Eight360 NOVA's power system](https://www.eight360.com/) and a quantitative trading algorthim with a winrate of 71%<br><br>- 🌱 I’m currently learning **VHDL/Verilog/SystemsVerilog, C++/Python implementation of HFT Strategies, and Financial mathematics.**<br><br>- 👨‍💻 Some of my projects and academic work are available at [https://github.com/HauShianChin](https://github.com/HauShianChin)<br><br>- 💬 Ask me about **Quantitative finance**<br><br>- 📫 How to reach me **haushianchin@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/hau-shian-chin-20aa841b4/](https://www.linkedin.com/in/hau-shian-chin-20aa841b4/)<br><br>- ⚡ Fun fact **I like to pick up heavy things and put them back down**
 
 
 ## 🌐 Socials:
