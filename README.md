@@ -107,15 +107,23 @@ class HauShianChin:
 
 ## 📈 GitHub Stats
 
+<!--
+  ⚠️ If the stats images below appear broken, the public Vercel instance is
+  rate-limited. To fix permanently (free, takes 2 minutes):
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to your own Vercel account
+  3. Replace "github-readme-stats.vercel.app" with "your-app-name.vercel.app" below
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HauShianChin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=HauShianChin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauShianChin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauShianChin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" height="170" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HauShianChin&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=HauShianChin&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
